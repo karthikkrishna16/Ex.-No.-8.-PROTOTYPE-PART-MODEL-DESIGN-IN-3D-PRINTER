@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:MUKESH KUMAR S
+### Register Number:212223240099
+![image](https://github.com/mukeshkumar1110/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/152305679/2419ccf0-a108-4c26-912f-33b30a3c7fa3)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
