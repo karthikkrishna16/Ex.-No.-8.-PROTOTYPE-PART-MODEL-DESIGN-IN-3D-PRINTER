@@ -47,9 +47,11 @@
 
 ## Output:
 
-### Name:MUKESH KUMAR S
-### Register Number:212223240099
-![image](https://github.com/mukeshkumar1110/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/152305679/2419ccf0-a108-4c26-912f-33b30a3c7fa3)
+### Name:KARTHIK KRISHNA
+### Register Number:212223240067
+![WhatsApp Image 2024-05-19 at 11 36 37 AM](https://github.com/karthikkrishna16/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148514663/5f9fef50-ce2a-4dd7-b0f3-0da966b7e72e)
+
+
 
 
 ## RESULT:
